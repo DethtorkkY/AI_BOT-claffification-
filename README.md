@@ -1,1 +1,1 @@
-this AI_BOT for discord
+this isAI_BOT for discord
